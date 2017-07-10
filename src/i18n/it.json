@@ -20,6 +20,8 @@
     "less_or_equal": "minore o uguale",
     "greater": "maggiore",
     "greater_or_equal": "maggiore o uguale",
+    "between" : "compreso",
+    "not_between" : "non compreso",
     "begins_with": "inizia con",
     "not_begins_with": "non inizia con",
     "contains": "contiene",
